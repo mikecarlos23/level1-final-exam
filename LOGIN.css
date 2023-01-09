@@ -1,0 +1,99 @@
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+main{
+
+    height: 100vh;
+    width: 100vw;
+    background: linear-gradient(to top right, rgba(255,165,0,0.8), rgba(0,128,128,0.6) );
+    
+}
+section{
+height:80vh;
+    width: 30vw;
+      background-color: rgba(255, 255, 255, 0.541); 
+    position: relative;
+    top: 100px;
+    left: 500px;
+     opacity: 0.7; 
+    
+    border-radius: 20px;  
+     background: linear-gradient(to right bottom, rgba(255 255 255 0.7), rgba(255 255 255 0.3)); 
+}
+.form{
+
+    display: flex;
+    align-items: center;
+    /* width: 300px; */
+    margin-top: 50px;
+    flex-direction: column;
+    
+}
+.sign-up{
+
+    background: linear-gradient(to right top, rgb(246, 161, 3), teal);
+    cursor: pointer;
+    color: white;
+}
+input{
+    background-color: white;
+    height: 30px;
+    width: 200px;
+    margin-top: 50px;
+    border-radius: 50px;
+    border: 700px;
+     background: linear-gradient(to right bottom, rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.3)); 
+    box-shadow: 6px 6px 20px rgb(122, 122, 122, 0.222); 
+    z-index: 5;
+    backdrop-filter: blur(2rem);
+    opacity: 1;
+}
+
+
+
+
+h1{
+    text-align: center;
+    position: relative;
+    top: 50px;
+
+    
+}
+body{
+
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+a p{
+    font-size: 0.9rem;
+    margin-top: 50px;
+    color: #072e61;
+    opacity: 1;
+    font-weight: 500;
+}
+a{
+    /* text-decoration: none; */
+}
+.student{
+
+margin-top: 200px;
+    
+}
+.first, .second{
+    position: absolute;
+    bottom: 80%;
+    left: 60%;
+height: 100px;
+width: 100px;
+
+ background: linear-gradient(to bottom right, rgba(255 255 255 0.9), rgba(255 255 255 0.6)); 
+border-radius: 200px;
+ opacity: 0.3; 
+
+}
+
+
+
+
+
+
+
